@@ -21,7 +21,7 @@ make destroy
 make apply
 ```
 
-## Enchancements
+## Enhancements
 
 This is just a simple example of how you can use IaC to perform basic systems Devops/SRE tasks.
 
